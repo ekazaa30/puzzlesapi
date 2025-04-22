@@ -20,7 +20,7 @@ Selamat datang di proyek **Puzzle Jigsaw Hewan**! Proyek ini dirancang untuk mem
 
 ---
 
-## 🐶🦁 Daftar Puzzle Jigsaw Hewan
+## 🐶🦁 link Puzzle Jigsaw Hewan
 https://puzzel.org/en/jigsaw/play?p=-OOQlY6MdO9rr19Rt8AF
 ---
 
